@@ -136,19 +136,6 @@ nav:
       - neikejibing/2/index.md
       - 2.1 各脏器强化值: neikejibing/2/2-1.md
       - 2.2 肝: neikejibing/2/2-2.md
-  - 录取及之后:
-    - 录取及之后: afterad/index.md
-    - Funding: afterad/funding.md
-    - 等待 Offer: afterad/waiting.md
-    - 比较决定: afterad/compare.md
-    - 签证: afterad/visa.md
-    - 前往: afterad/travel.md
-    - 租房: afterad/rent.md
-  - 案例: cases.md
-  - 文章阅读: reading/index.md
-  - 联系与支持:
-    - 联系与支持: contact/support.md
-    - 功德墙: contact/contributor.md
 
 theme:
   name: material
