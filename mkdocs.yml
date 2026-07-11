@@ -20,7 +20,7 @@ nav:
     - 中介 or DIY: preface/diy.md
     - 时间线: preface/timeline.md
   - 腹部影像解剖图谱:
-    - 目录: prepare/exam.md
+    - 目录: prepare/index.md
     - 第一章 腹部断面影像解剖:
       - prepare/1/index.md
       - 1.1 横轴面: prepare/1/1-1.md
@@ -29,12 +29,12 @@ nav:
       - prepare/2/index.md
       - 2.1 各脏器强化值: prepare/2/2-1.md
       - 2.2 肝: prepare/2/2-2.md
-      - 2.3 脾 脏: prepare/2/2-3.md
-      - 2.4 胰 腺: prepare/2/2-4.md
+      - 2.3 脾脏: prepare/2/2-3.md
+      - 2.4 胰腺: prepare/2/2-4.md
       - 2.5 消化道: prepare/2/2-5.md
-      - 2.6 肾 脏: prepare/2/2-6.md
-      - 2.7 膀 胱: prepare/2/2-7.md
-      - 2.8 子 宫: prepare/2/2-8.md
+      - 2.6 肾脏: prepare/2/2-6.md
+      - 2.7 膀胱: prepare/2/2-7.md
+      - 2.8 子宫: prepare/2/2-8.md
       - 2.9 前列腺: prepare/2/2-9.md
     - 第三章 胆道影像解剖:
       - prepare/3/index.md
@@ -53,7 +53,7 @@ nav:
       - prepare/6/index.md
       - 6.1 检查方法: prepare/6/6.1.md
       - 6.2 断面血管影像: prepare/6/6.2.md
-      - 6.3 CTA 和 MRA 血管解剖: prepare/6/6.3.md
+      - 6.3 CTA和MRA血管解剖: prepare/6/6.3.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
