@@ -20,40 +20,40 @@ nav:
     - 中介 or DIY: preface/diy.md
     - 时间线: preface/timeline.md
   - 腹部影像解剖图谱:
-    - 目录: prepare/index.md
+    - 目录: fubuyingxiang/index.md
     - 第一章 腹部断面影像解剖:
-      - prepare/1/index.md
-      - 1.1 横轴面: prepare/1/1-1.md
-      - 1.2 冠状面: prepare/1/1-2.md
+      - fubuyingxiang/1/index.md
+      - 1.1 横轴面: fubuyingxiang/1/1-1.md
+      - 1.2 冠状面: fubuyingxiang/1/1-2.md
     - 第二章 各脏器增强影像特点:
-      - prepare/2/index.md
-      - 2.1 各脏器强化值: prepare/2/2-1.md
-      - 2.2 肝: prepare/2/2-2.md
-      - 2.3 脾脏: prepare/2/2-3.md
-      - 2.4 胰腺: prepare/2/2-4.md
-      - 2.5 消化道: prepare/2/2-5.md
-      - 2.6 肾脏: prepare/2/2-6.md
-      - 2.7 膀胱: prepare/2/2-7.md
-      - 2.8 子宫: prepare/2/2-8.md
-      - 2.9 前列腺: prepare/2/2-9.md
+      - fubuyingxiang/2/index.md
+      - 2.1 各脏器强化值: fubuyingxiang/2/2-1.md
+      - 2.2 肝: fubuyingxiang/2/2-2.md
+      - 2.3 脾脏: fubuyingxiang/2/2-3.md
+      - 2.4 胰腺: fubuyingxiang/2/2-4.md
+      - 2.5 消化道: fubuyingxiang/2/2-5.md
+      - 2.6 肾脏: fubuyingxiang/2/2-6.md
+      - 2.7 膀胱: fubuyingxiang/2/2-7.md
+      - 2.8 子宫: fubuyingxiang/2/2-8.md
+      - 2.9 前列腺: fubuyingxiang/2/2-9.md
     - 第三章 胆道影像解剖:
-      - prepare/3/index.md
-      - 3.1 检查方法: prepare/3/3-1.md
-      - 3.2 重建影像: prepare/3/3-2.md
+      - fubuyingxiang/3/index.md
+      - 3.1 检查方法: fubuyingxiang/3/3-1.md
+      - 3.2 重建影像: fubuyingxiang/3/3-2.md
     - 第四章 消化道影像解剖:
-      - prepare/4/index.md
-      - 4.1 检查方法: prepare/4/4-1.md
-      - 4.2 横断面: prepare/4/4-2.md
-      - 4.3 非轴位影像与仿真内镜: prepare/4/4-3.md      
+      - fubuyingxiang/4/index.md
+      - 4.1 检查方法: fubuyingxiang/4/4-1.md
+      - 4.2 横断面: fubuyingxiang/4/4-2.md
+      - 4.3 非轴位影像与仿真内镜: fubuyingxiang/4/4-3.md      
     - 第五章 泌尿系统影像解剖:
-      - prepare/5/index.md
-      - 5.1 检查方法: prepare/5/5-1.md
-      - 5.2 重建影像: prepare/5/5-2.md
+      - fubuyingxiang/5/index.md
+      - 5.1 检查方法: fubuyingxiang/5/5-1.md
+      - 5.2 重建影像: fubuyingxiang/5/5-2.md
     - 第六章 腹部血管结构影像解剖:
-      - prepare/6/index.md
-      - 6.1 检查方法: prepare/6/6-1.md
-      - 6.2 断面血管影像: prepare/6/6-2.md
-      - 6.3 CTA和MRA血管解剖: prepare/6/6-3.md
+      - fubuyingxiang/6/index.md
+      - 6.1 检查方法: fubuyingxiang/6/6-1.md
+      - 6.2 断面血管影像: fubuyingxiang/6/6-2.md
+      - 6.3 CTA和MRA血管解剖: fubuyingxiang/6/6-3.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
