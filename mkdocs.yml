@@ -46,6 +46,96 @@ nav:
       - 6.1 检查方法: fubuyingxiang/6/6-1.md
       - 6.2 断面血管影像: fubuyingxiang/6/6-2.md
       - 6.3 CTA和MRA血管解剖: fubuyingxiang/6/6-3.md
+  - CT诊断学:
+    - 目录: ct/index.md
+    - 第一章 腹部断面影像解剖:
+      - ct/1/index.md
+      - 1.1 横轴面: ct/1/1-1.md
+      - 1.2 冠状面: ct/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - ct/2/index.md
+      - 2.1 各脏器强化值: ct/2/2-1.md
+      - 2.2 肝: ct/2/2-2.md
+  - ICU主治医生手册:
+    - 目录: icu/index.md
+    - 第一章 腹部断面影像解剖:
+      - icu/index.md
+      - 1.1 横轴面: icu/1/1-1.md
+      - 1.2 冠状面: icu/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - icu/2/index.md
+      - 2.1 各脏器强化值: icu/2/2-1.md
+      - 2.2 肝: icu/2/2-2.md
+  - X线读片指南:
+    - 目录: x/index.md
+    - 第一章 腹部断面影像解剖:
+      - x/index.md
+      - 1.1 横轴面: x/1/1-1.md
+      - 1.2 冠状面: x/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - x/2/index.md
+      - 2.1 各脏器强化值: x/2/2-1.md
+      - 2.2 肝: x/2/2-2.md
+  - 病理学:
+    - 目录: binglixue/index.md
+    - 第一章 腹部断面影像解剖:
+      - binglixue/index.md
+      - 1.1 横轴面: binglixue/1/1-1.md
+      - 1.2 冠状面: binglixue/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - binglixue/2/index.md
+      - 2.1 各脏器强化值: binglixue/2/2-1.md
+      - 2.2 肝: binglixue/2/2-2.md
+  - 急诊内科学:
+    - 目录: jizhenneikexue/index.md
+    - 第一章 腹部断面影像解剖:
+      - jizhenneikexue/index.md
+      - 1.1 横轴面: jizhenneikexue/1/1-1.md
+      - 1.2 冠状面: jizhenneikexue/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - jizhenneikexue/2/index.md
+      - 2.1 各脏器强化值: jizhenneikexue/2/2-1.md
+      - 2.2 肝: jizhenneikexue/2/2-2.md
+  - 精神病学:
+    - 目录: jingshenbingxue/index.md
+    - 第一章 腹部断面影像解剖:
+      - jingshenbingxue/index.md
+      - 1.1 横轴面: jingshenbingxue/1/1-1.md
+      - 1.2 冠状面: jingshenbingxue/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - jingshenbingxue/2/index.md
+      - 2.1 各脏器强化值: jingshenbingxue/2/2-1.md
+      - 2.2 肝: jingshenbingxue/2/2-2.md
+  - 临床心电图详解与诊断:
+    - 目录: linchuangxindiantu/index.md
+    - 第一章 腹部断面影像解剖:
+      - linchuangxindiantu/index.md
+      - 1.1 横轴面: linchuangxindiantu/1/1-1.md
+      - 1.2 冠状面: linchuangxindiantu/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - linchuangxindiantu/2/index.md
+      - 2.1 各脏器强化值: linchuangxindiantu/2/2-1.md
+      - 2.2 肝: linchuangxindiantu/2/2-2.md
+  - 免疫学:
+    - 目录: mianyixue/index.md
+    - 第一章 腹部断面影像解剖:
+      - mianyixue/index.md
+      - 1.1 横轴面: mianyixue/1/1-1.md
+      - 1.2 冠状面: mianyixue/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - mianyixue/2/index.md
+      - 2.1 各脏器强化值: mianyixue/2/2-1.md
+      - 2.2 肝: mianyixue/2/2-2.md
+  - 内科疾病鉴别诊断学:
+    - 目录: neikejibing/index.md
+    - 第一章 腹部断面影像解剖:
+      - neikejibing/index.md
+      - 1.1 横轴面: neikejibing/1/1-1.md
+      - 1.2 冠状面: neikejibing/1/1-2.md
+    - 第二章 各脏器增强影像特点:
+      - neikejibing/2/index.md
+      - 2.1 各脏器强化值: neikejibing/2/2-1.md
+      - 2.2 肝: neikejibing/2/2-2.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
