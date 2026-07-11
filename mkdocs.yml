@@ -37,6 +37,17 @@ nav:
     - 第三章 胆道影像解剖:
       - 3.1 检查方法: prepare/help/chsi.md
       - 3.2 重建影像: prepare/help/toefl-home.md
+    - 第四章 消化道影像解剖:
+      - 4.1 检查方法: prepare/4/4.1.md
+      - 4.2 横断面: prepare/4/4.2.md
+      - 4.3 非轴位影像与仿真内镜: prepare/4/4.3.md      
+    - 第五章 泌尿系统影像解剖:
+      - 5.1 检查方法: prepare/5/5.1.md
+      - 5.2 重建影像: prepare/5/5.2.md
+    - 第六章 腹部血管结构影像解剖:
+      - 6.1 检查方法: prepare/6/6.1.md
+      - 6.2 断面血管影像: prepare/6/6.2.md
+      - 6.3 CTA 和 MRA 血管解剖: prepare/6/6.3.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
