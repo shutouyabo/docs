@@ -21,30 +21,22 @@ nav:
     - 时间线: preface/timeline.md
   - 腹部影像解剖图谱:
     - 目录: prepare/exam.md
-    - 经历:
+    - 第一章 腹部断面影像解剖:
       - prepare/experience/index.md
-      - 科研: prepare/experience/research.md
-      - 实习: prepare/experience/intern.md
-      - 交换: prepare/experience/exchange.md
-    - 推荐信: prepare/rl.md
-    - 选校定位: prepare/selection.md
-    - 套磁: prepare/touch.md
-    - 文书:
+      - 1.1 横轴面: prepare/experience/research.md
+      - 1.2 冠状面: prepare/experience/intern.md
+    - 第二章 各脏器增强影像特点:
       - prepare/material/index.md
-      - CV: prepare/material/cv.md
-      - PS / SOP: prepare/material/sop.md
-      - 成绩单、学位证: prepare/material/transcript.md
-      - Research Proposal: prepare/material/rp.md
-      - Diversity Statement: prepare/material/diversity.md
-      - Writing Sample: prepare/material/writingsample.md
-      - 个人网站/作品集: prepare/material/homepage.md
-    - 网申: prepare/onlinesystem.md
-    - 面试: prepare/interview.md
-    - 其它帮助:
-      - 学信网认证: prepare/help/chsi.md
-      - TOEFL/GRE 家考注意事项: prepare/help/toefl-home.md
-      - 申请信息表格整理: prepare/help/summarytable.md
-      - APS: prepare/help/aps.md
+      - 2.1 各脏器强化值: prepare/material/cv.md
+      - 2.2 肝: prepare/material/sop.md
+      - 2.3 脾 脏: prepare/material/transcript.md
+      - 2.4 胰 腺: prepare/material/rp.md
+      - 2.5 消化道: prepare/material/diversity.md
+      - 2.6 肾 脏: prepare/material/writingsample.md
+      - 2.7 膀 胱: prepare/material/homepage.md
+    - 第三章 胆道影像解剖:
+      - 3.1 检查方法: prepare/help/chsi.md
+      - 3.2 重建影像: prepare/help/toefl-home.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
